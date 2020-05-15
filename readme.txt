@@ -6,3 +6,5 @@ Git tracks changes of files.
 
 Hello, world! This is Quanchi CHEN.
 HaHa.
+
+Hello World! This is Quanchi CHEN. I'm form China.
